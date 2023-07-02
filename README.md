@@ -3,4 +3,5 @@
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayuras7685&" alt="mayuras7685" />
 </p>
-[![mayuras7685's GitHub | Topics](https://stats.quine.sh/mayuras7685/topics-over-time?theme=dark)](https://quine.sh)
+
+[![mayuras7685's GitHub | Languages Over Time](https://stats.quine.sh/mayuras7685/languages-over-time?theme=dark)](https://quine.sh)
